@@ -49,7 +49,11 @@ Um app web leve e intuitivo que mostra o clima atual e a previsão dos próximos
 
 1. Clone o repositório:
    ```
+<<<<<<< HEAD
    git clone https://github.com/sthefanyom/QuartzoClima.git
+=======
+   git clone https://github.com/Emy2mangas/Previs-o-de-tempo--QuartzoClima.git
+>>>>>>> ea74da5a3093dade71036aec86bac34eb7c9ce9d
    ```
 2. Navegue até a pasta do projeto:
    ```
