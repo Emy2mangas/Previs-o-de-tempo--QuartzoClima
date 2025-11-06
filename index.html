@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quartzo Clima</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Fonte e ícone -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<link rel="icon" href="icon.png" type="image/png">
+<meta name="description" content="Confira o clima em tempo real com o Quartzo Clima — simples, bonito e preciso.">
+
+</head>
+<body>
+  <header>
+    <h1>🌤️ Quartzo Clima</h1>
+    <div class="search-box">
+     <input type="text" id="city-input" placeholder="🌍 Ex: Rio de Janeiro" />
+      <button id="search-btn">Buscar</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="weather-info" class="hidden">
+      <h2 id="city-name"></h2>
+     <div id="weather-icon" class="weather-emoji" aria-hidden="true"></div>
+      <p id="temperature"></p>
+      <p id="description"></p>
+    </div>
+
+    <p id="error-message" class="error hidden"></p>
+  </main>
+
+<footer>
+  <p> Desenvolvido com carinho por Quartzo Sollutions ©2024</p>
+</footer>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
