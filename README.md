@@ -50,8 +50,6 @@ Um app web leve e intuitivo que mostra o clima atual e a previsão dos próximos
 1. Clone o repositório:
    ```
 <<<<<<< HEAD
-   git clone https://github.com/sthefanyom/QuartzoClima.git
-=======
    git clone https://github.com/Emy2mangas/Previs-o-de-tempo--QuartzoClima.git
 >>>>>>> ea74da5a3093dade71036aec86bac34eb7c9ce9d
    ```
@@ -88,17 +86,4 @@ QuartzoClima/
 - 🌙 Modo escuro.  
 - 📊 Gráficos interativos de temperatura.
 
----
 
-## 👩‍💻 Autora
-
-Sthefany Oliveira  
-💎 Fundadora da Quartzo Sollutions  
-🚀 Apaixonada por tecnologia, aprendizado e segurança da informação.
-
-> 🪶 “Inspirado pela ideia de que o conhecimento é como o clima — muda o tempo todo, mas sempre traz algo novo.”
-
----
-
-Se este projeto te ajudou ou inspirou, deixe uma estrela no repositório ⭐ — contribuições e sugestões são muito bem-vindas!
-# Previs-o-de-tempo--QuartzoClima
